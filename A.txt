@@ -4,3 +4,4 @@ dev2
 Code changes for feature1
 Changes to commit.
 change in a
+second commit
